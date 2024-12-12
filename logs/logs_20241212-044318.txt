@@ -1,0 +1,26 @@
+Trip 1 Rating: 4.91, Date: 09-05 to 09-07 2025, Rank: 1
+Trip 2 Rating: 0.85, Date: 09-12 to 09-14 2025, Rank: 4
+Trip 3 Rating: 0.89, Date: 09-19 to 09-21 2025, Rank: 2
+Trip 4 Rating: 0.85, Date: 09-26 to 09-28 2025, Rank: 3
+
+          We suggest Trip 1 
+       Expected Cost: $780.00 
+       Average Flight Price: $428.52 
+       Average Hotel Price: $351.47 
+       Average Temperatue(F): 65.97 °F 
+       With a low of 57°F and high of 74°F 
+       There is no precipitation expected 
+
+Trip 1 Rating: 2.66, Date: 09-05 to 09-07 2025, Rank: 1
+Trip 2 Rating: 2.63, Date: 09-12 to 09-14 2025, Rank: 2
+Trip 3 Rating: 2.37, Date: 09-19 to 09-21 2025, Rank: 3
+Trip 4 Rating: 2.34, Date: 09-26 to 09-28 2025, Rank: 4
+
+          We suggest Trip 1 
+       Expected Cost: $780.00 
+       Average Flight Price: $428.52 
+       Average Hotel Price: $351.47 
+       Average Temperatue(F): 65.97 °F 
+       With a low of 57°F and high of 74°F 
+       There is no precipitation expected 
+
