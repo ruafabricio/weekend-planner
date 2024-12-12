@@ -17,3 +17,4 @@ rating.py - fuzzy logic system that creates membership functions with parameters
 
 bayesian.py - uses bayesian logic to get ratings based on data
 
+logs-sample logs and membership functions
